@@ -1,0 +1,1 @@
+# linkonu-kiosk-sql
